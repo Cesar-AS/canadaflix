@@ -1,183 +1,187 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Como Imigrar",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Como imigrar para o Canadá",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "7 Formas mais fáceis de imigrar para o Canadá",
+          "url": "https://www.youtube.com/watch?v=PAT25vKl8LY"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "EXPRESS ENTRY: A melhor forma de imigrar para o Canadá!",
+          "url": "https://www.youtube.com/watch?v=DSo5rvvOVEY"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "COMO BRASILEIROS PODEM MORAR NO CANADÁ - Ep.1223",
+          "url": "https://www.youtube.com/watch?v=PrUkuBW5LUc"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "5 DICAS PARA IMIGRAR PARA O CANADA AGORA EM 2020!",
+          "url": "https://www.youtube.com/watch?v=Sk9BLQwrwqI"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "QUANTO CUSTA IMIGRAR PARA O CANADÁ | Vida no Canadá | Fer & Van",
+          "url": "https://www.youtube.com/watch?v=5rZ0vGfwC2M"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Como IMIGRAR para o CANADÁ programas de imigração",
+          "url": "https://www.youtube.com/watch?v=FWVbH6DpLJ0"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Como imigrar para o Canadá - com Foco em programadores",
+          "url": "https://www.youtube.com/watch?v=ox1h4yGwuVg&t=19s"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Ótima notícia: Novo programa de Imigração em 2020 - Canadá",
+          "url": "https://www.youtube.com/watch?v=gA2ebR-o5Aw"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Como Estudar",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Como estudar no Canadá",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "OS COLLEGES MAIS BARATOS DO CANADÁ QUE AJUDAM A IMIGRAR",
+          "url": "https://www.youtube.com/watch?v=hj_TfAg2WuA"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "COMO SAIR DO BRASIL PARA ESTUDAR E TRABALHAR NO CANADÁ? Intercâmbio Vancouver | Tudo sobre o Canadá",
+          "url": "https://www.youtube.com/watch?v=Q7FcJcjHE_A"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "10 COISAS QUE VOCÊ PRECISA SABER ANTES DE ESTUDAR NO CANADÁ",
+          "url": "https://www.youtube.com/watch?v=h4exlaY_5Zc"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "TOUR PELA UNIVERSIDADE DE TORONTO",
+          "url": "https://www.youtube.com/watch?v=RgfBhvJLNHk"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "ESTUDAR NO CANADÁ SEM SABER INGLÊS + TRABALHAR E ESTUDAR + ILEGAL e mais - ESTUDOS NO CANADÁ #1",
+          "url": "https://www.youtube.com/watch?v=X8vYCDMql2c"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "IELTS",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Dicas para quem vai fazer o IELTS",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "COMO TER SUCESSO NA PROVA DO IELTS PARA IMIGRAR E ESTUDAR NO CANADÁ",
+          "url": "https://www.youtube.com/watch?v=8RAAmdW80Xs"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "DICAS DE PROVAS DE INGLÊS + IELTS vs CELPIP | Vida no Canadá | Fer & Van",
+          "url": "https://www.youtube.com/watch?v=uPsbC-uCveY"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Preparando-se para a PROVA DE INGLÊS DO IELTS no Canadá",
+          "url": "https://www.youtube.com/watch?v=I1GC4g7EKpw"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Como tirei 7.5 no IELTS? Minha experiência e dicas",
+          "url": "https://www.youtube.com/watch?v=3K7z2m9p2FU"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Inverno",
       "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Como é o inverno canadense",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "COMO É MORAR NO FRIO EXTREMO? RESPONDENDO PERGUNTAS | Amanda Araujo | Winnipeg, Canada",
+          "url": "https://www.youtube.com/watch?v=r6NNabkUOII"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "INVERNO NO CANADÁ | Vida no Canadá | Fer & Van",
+          "url": "https://www.youtube.com/watch?v=SPK3c33bTSk"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "PERGUNTAS IDIOTAS SOBRE O INVERNO CANADENSE | EDMONTON | VIAGEM PELO CANADÁ #22 | KITTY NO CANADÁ",
+          "url": "https://www.youtube.com/watch?v=HLO4CCW2ONQ"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "DICAS DE COMO SOBREVIVER AO INVERNO NO CANADÁ - Parte 1",
+          "url": "https://www.youtube.com/watch?v=gITsr4AF9OQ"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Verão",
+      "cor": "red",
+      "link_extra": {
+        "text": "Como é o Verão no Canadá",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "COMO É TER O SOL ATÉ ÀS 10 DA NOITE - VERÃO NO CANADÁ | Vida no Canadá | Fer & Van",
+          "url": "https://www.youtube.com/watch?v=aJQpnmE6px0"
+        },
+        {
+          "titulo": "Como é o VERÃO no CANADÁ",
+          "url": "https://www.youtube.com/watch?v=YAunaf1wiSE"
+        },
+        {
+          "titulo": "5 Coisas para Fazer no Verão de Calgary | TOP 5 CANADÁ",
+          "url": "https://www.youtube.com/watch?v=Ta2K7xYXhyE"
+        },
+        {
+          "titulo": "Verão em Vancouver! 🇨🇦Lago, trilha, bike e passeios ☀️ | Vida no Canadá",
+          "url": "https://www.youtube.com/watch?v=GHkq5mcl1Us"
+        },
+        {
+          "titulo": "Verão no CANADÁ: O que fazer em TORONTO? | Um DIA em minha VIDA",
+          "url": "https://www.youtube.com/watch?v=bdk3DSlohJU"
+        }
+      ]
+    },
+    {
+      "titulo": "Desvantagens",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "Pontos negativos de morar no Canadá",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "AS DESVANTAGENS DE MORAR NO CANADÁ",
+          "url": "https://www.youtube.com/watch?v=qki5MuK-jXU"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "DESVANTAGENS DE MORAR EM CASA NO CANADA! Por Amanda Araujo",
+          "url": "https://www.youtube.com/watch?v=jILOaOFoLfo"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "QUAIS AS DESVANTAGENS DE MORAR NO CANADÁ?",
+          "url": "https://www.youtube.com/watch?v=Gb8DSQISZuY"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "10 MOTIVOS PARA NÃO MORAR NO CANADÁ | Vida no Canadá | Fer & Van",
+          "url": "https://www.youtube.com/watch?v=fxqgH-cRK4I"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "5 motivos para NÃO morar no CANADA",
+          "url": "https://www.youtube.com/watch?v=cY4W31PBqNQ"
         }
       ]
     }

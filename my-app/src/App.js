@@ -13,32 +13,37 @@ function App() {
     <BannerMain 
       videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
       url={dadosIniciais.categorias[0].videos[0].url}
-      videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazenm afinal? Descubra com a Vanessa!"}
+      videoDescription={"Quer saber as 7 formas mais fáceis para imigrar para o Canadá? A consultora de imigração da e-Visa Immigration, Marilene Quintana, vai nos contar em detalhes sobre as 7 maneiras mais comuns para morar legalmente no Canadá!"}
     />
 
     <Carousel 
-      ignoreFirstVideo
+      //ignoreFirstVideo
       category={dadosIniciais.categorias[0]}
     />
 
     <Carousel 
-      ignoreFirstVideo
+      //ignoreFirstVideo
       category={dadosIniciais.categorias[1]}
     />
 
     <Carousel 
-      ignoreFirstVideo
+      //ignoreFirstVideo
       category={dadosIniciais.categorias[2]}
     />
 
     <Carousel 
-      ignoreFirstVideo
+      //ignoreFirstVideo
       category={dadosIniciais.categorias[3]}
     />
 
     <Carousel 
-      ignoreFirstVideo
+      //ignoreFirstVideo
       category={dadosIniciais.categorias[4]}
+    />
+
+    <Carousel 
+      //ignoreFirstVideo
+      category={dadosIniciais.categorias[5]}
     />
 
     <Footer 
