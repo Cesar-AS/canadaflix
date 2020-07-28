@@ -25,6 +25,7 @@
   
     background: var(--black);
     border-bottom: 2px solid var(--primary);
+    border-color: #ff0000;
   }
   body {
     --bodyPaddingTop: 94px;
