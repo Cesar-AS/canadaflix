@@ -74,6 +74,8 @@ function FormField( {label, name, type, value, onChange} ) {
     const isTextarea = type === 'textarea';
     const tag =  isTextarea ? 'textarea' : 'input';
 
+    const hasValue = value.length;
+
     return (
         <FormFieldWrapper>
             <Label
